@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=180&section=header&text=Data%20Science%20Projects&fontSize=34&fontColor=A78BFA&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20%26%20Exploratory%20Data%20Analysis&descAlignY=62&descSize=15&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:2563EB&height=180&section=header&text=Data%20Science%20Projects&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20%26%20Exploratory%20Data%20Analysis&descAlignY=62&descSize=15&descColor=2563EB" width="100%"/>
 
-[![Python](https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-A78BFA?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai)
 
 </div>
 
 <br/>
 
-## `$ about`
+### `A B O U T`
 
-Practical machine learning fundamentals applied through complete, end-to-end exploratory data analysis and predictive modeling pipelines — built using core Python data science libraries: **NumPy**, **Pandas**, **Scikit-learn**, and **XGBoost**.
+| |
+|:---|
+| Practical machine learning fundamentals applied through complete, end-to-end exploratory data analysis and predictive modeling pipelines — built using core Python data science libraries: **NumPy**, **Pandas**, **Scikit-learn**, and **XGBoost**. |
 
 <br/>
 
-## `$ ls projects/`
+### `P R O J E C T S`
 
 <details open>
 <summary><b>🚗 Car Price Prediction — ML & EDA</b></summary>
@@ -63,35 +65,29 @@ Final step visualized feature importances and plotted **Actual vs Predicted** va
 
 <br/>
 
-## `$ tech --stack`
+### `T E C H   S T A C K`
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
-
-</div>
-
-<div align="center">
-
-[![NumPy](https://img.shields.io/badge/NumPy-6366F1?style=flat-square&logo=numpy&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white)](#)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-A78BFA?style=flat-square&logo=plotly&logoColor=white)](#)
-[![Seaborn](https://img.shields.io/badge/Seaborn-6366F1?style=flat-square&logo=plotly&logoColor=white)](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-8B5CF6?style=flat-square&logo=jupyter&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 
 </div>
 
 <br/>
 
-## `$ connect`
+### `C O N N E C T`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedWaqarAliZaidi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedWaqarAliZaidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-waqar-ali-zaidi-295b7339a/)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
 </div>
